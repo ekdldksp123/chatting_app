@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090057466833",
+    "project_id": "liiiiit-test",
+    "storage_bucket": "liiiiit-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090057466833:android:854b0a93c3412f73fa66f0",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090057466833-etpuo2p01ul3obm4lf1luk88uj6l211a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUdjLmmHrIJSQULu9D0YQwBlYTiBRRV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090057466833-etpuo2p01ul3obm4lf1luk88uj6l211a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
